@@ -15,7 +15,7 @@ Script Python de diagnóstico rápido para:
 
 ## ▶️ Uso
 ```bash
-python soportekit.py
+python soportekit2.py
 
 🔧 Opcional
 pip install psutil
