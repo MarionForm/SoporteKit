@@ -20,5 +20,9 @@ python soportekit.py
 🔧 Opcional
 pip install psutil
 
+🔧 Requisitos
+Python 3.9+
+(Opcional) psutil para análisis de procesos
+
 # SoporteKit
 Script de diagnóstico rápido para Soporte Técnico / Helpdesk
